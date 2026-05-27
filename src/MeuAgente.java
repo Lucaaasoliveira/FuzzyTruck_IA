@@ -147,7 +147,6 @@ public class MeuAgente extends Agente {
 		}
 	}
 
-	@Override
 	public void calculaIA(int DiffTime) {
 		// ========== 1. DADOS CRISP (Entradas Matemáticas) ==========
 		// A vaga de estacionamento está aproximadamente nestas coordenadas
